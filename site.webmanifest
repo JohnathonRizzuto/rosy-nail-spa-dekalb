@@ -1,0 +1,11 @@
+{
+  "name": "Rosy Nail & Spa",
+  "short_name": "Rosy Nail & Spa",
+  "icons": [
+    { "src": "/favicon-32x32.png", "sizes": "32x32", "type": "image/png" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ],
+  "theme_color": "#c2185b",
+  "background_color": "#fff5f7",
+  "display": "standalone"
+}

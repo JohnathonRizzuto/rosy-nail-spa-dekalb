@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rosy-nail-spa-dekalb.vercel.app/sitemap.xml
